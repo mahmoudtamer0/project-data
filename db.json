@@ -335,14 +335,6 @@
                 "rate": 2.2,
                 "count": 140
             }
-        },
-        {
-            "title": "mahmoud",
-            "description": "The iPhone 14 and iPhone 14 Plus are smartphones designed, developed, and marketed by Apple Inc. They are the sixteenth and latest generation of iPhones, succeeding the iPhone 13 and iPhone 13 Mini, and were announced during Apple Event, Apple Park in Cupertino, California, on September 7, 2022, alongside the higher-priced iPhone 14 Pro and iPhone 14 Pro Max flagships. The",
-            "price": "2000",
-            "category": "electronics",
-            "image": "",
-            "id": 22
         }
     ],
     "jewelery": [
@@ -381,22 +373,6 @@
                 "rate": 1.9,
                 "count": 100
             }
-        },
-        {
-            "title": "",
-            "description": "",
-            "price": "",
-            "category": "jewelery",
-            "image": "",
-            "id": 9
-        },
-        {
-            "title": "iphone",
-            "description": "The iPhone 14 and iPhone 14 Plus are smartphones designed, developed, and marketed by Apple Inc. They are the sixteenth and latest generation of iPhones, succeeding the iPhone 13 and iPhone 13 Mini, and were announced during Apple Event, Apple Park in Cupertino, California, on September 7, 2022, alongside the higher-priced iPhone 14 Pro and iPhone 14 Pro Max flagships. The",
-            "price": "2000",
-            "category": "jewelery",
-            "image": "",
-            "id": 10
         }
     ],
     "women's_clothing": [
@@ -471,14 +447,6 @@
                 "rate": 3.6,
                 "count": 145
             }
-        },
-        {
-            "title": "wwwwww",
-            "description": "wwwww2",
-            "price": "222",
-            "category": "women's_clothing",
-            "image": "wwwwwwwww",
-            "id": 21
         }
     ],
     "men's_clothing": [
