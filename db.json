@@ -9,10 +9,8 @@
             "discount": true,
             "discount_rate": 135.5,
             "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-            "rating": {
-                "rate": 3.9,
-                "count": 120
-            }
+            "rate": 3.9,
+            "count": 120
         },
         {
             "id": 2,
@@ -21,10 +19,8 @@
             "description": "تشيرت رجالي صيفي",
             "category": "لبس رجالي",
             "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-            "rating": {
-                "rate": 4.1,
-                "count": 259
-            }
+            "rate": 4.1,
+            "count": 259
         },
         {
             "id": 3,
@@ -35,10 +31,8 @@
             "description": "سترات خارجية رائعة لفصل الربيع / الخريف / الشتاء",
             "category": "men's clothing",
             "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-            "rating": {
-                "rate": 4.7,
-                "count": 500
-            }
+            "rate": 4.7,
+            "count": 500
         },
         {
             "id": 4,
@@ -47,10 +41,8 @@
             "description": "مكن أن يختلف اللون قليلاً بين على الشاشة وفي الممارسة",
             "category": "men's clothing",
             "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-            "rating": {
-                "rate": 2.1,
-                "count": 430
-            }
+            "rate": 2.1,
+            "count": 430
         },
         {
             "id": 5,
@@ -59,10 +51,8 @@
             "description": "من مجموعة Legends Collection ، تم إلهام Naga",
             "category": "مجوهرات",
             "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-            "rating": {
-                "rate": 4.6,
-                "count": 400
-            }
+            "rate": 4.6,
+            "count": 400
         },
         {
             "id": 6,
@@ -73,10 +63,8 @@
             "description": "الرضا مضمون. استرجع أو استبدل أي طلب خلال 30 يومًا",
             "category": "مجوهرات",
             "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-            "rating": {
-                "rate": 3.9,
-                "count": 70
-            }
+            "rate": 3.9,
+            "count": 70
         },
         {
             "id": 7,
@@ -85,10 +73,8 @@
             "description": "خاتم الوعد الماس سوليتير الخطوبة الكلاسيكي الكلاسيكي لها.",
             "category": "مجوهرات",
             "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-            "rating": {
-                "rate": 3,
-                "count": 400
-            }
+            "rate": 3,
+            "count": 400
         },
         {
             "id": 8,
@@ -97,10 +83,8 @@
             "description": "أقراط نفق مزدوجة مطلية بالذهب الوردي.",
             "category": "مجوهرات",
             "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-            "rating": {
-                "rate": 1.9,
-                "count": 100
-            }
+            "rate": 1.9,
+            "count": 100
         },
         {
             "id": 9,
@@ -111,10 +95,8 @@
             "description": "التوافق مع USB 3.0 و USB 2.0 تحسين نقل البيانات بسرعة ",
             "category": "إلكترونيات",
             "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-            "rating": {
-                "rate": 3.3,
-                "count": 203
-            }
+            "rate": 3.3,
+            "count": 203
         },
         {
             "id": 10,
@@ -123,10 +105,8 @@
             "description": "ترقية سهلة للتمهيد والإغلاق بشكل أسرع",
             "category": "إلكترونيات",
             "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-            "rating": {
-                "rate": 2.9,
-                "count": 470
-            }
+            "rate": 2.9,
+            "count": 470
         },
         {
             "id": 11,
@@ -135,10 +115,8 @@
             "description": "يتم تطبيق فلاش NAND ثلاثي الأبعاد لتقديم سرعات نقل عالية ملحوظة",
             "category": "إلكترونيات",
             "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-            "rating": {
-                "rate": 4.8,
-                "count": 319
-            }
+            "rate": 4.8,
+            "count": 319
         },
         {
             "id": 12,
@@ -147,10 +125,8 @@
             "description": "قم بتوسيع تجربة ألعاب PS4 ، العب في أي مكان بسرعة وسهولة",
             "category": "إلكترونيات",
             "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-            "rating": {
-                "rate": 4.8,
-                "count": 400
-            }
+            "rate": 4.8,
+            "count": 400
         },
         {
             "id": 13,
@@ -159,10 +135,8 @@
             "description": "21. شاشة عريضة 5 بوصة عالية الدقة بتقنية IPS",
             "category": "إلكترونيات",
             "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-            "rating": {
-                "rate": 2.9,
-                "count": 250
-            }
+            "rate": 2.9,
+            "count": 250
         },
         {
             "id": 14,
@@ -171,10 +145,8 @@
             "description": "شاشة عرض منحنية مقاس 49 بوصة مقاس 32: 9 مزودة بشاشة منحنية مقاس 27 بوصة",
             "category": "إلكترونيات",
             "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-            "rating": {
-                "rate": 2.2,
-                "count": 140
-            }
+            "rate": 2.2,
+            "count": 140
         },
         {
             "id": 15,
@@ -183,10 +155,8 @@
             "description": "ملاحظة: السترات هي المقاس القياسي الأمريكي ، يرجى اختيار المقاس كالمعتاد",
             "category": "لبس حريمي",
             "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-            "rating": {
-                "rate": 2.6,
-                "count": 235
-            }
+            "rate": 2.6,
+            "count": 235
         },
         {
             "id": 16,
@@ -195,10 +165,8 @@
             "description": "100٪ بولي يوريثين (غلاف) 100٪ بوليستر (بطانة) 75٪ بوليستر 25٪ قطن",
             "category": "لبس حريمي",
             "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-            "rating": {
-                "rate": 2.9,
-                "count": 340
-            }
+            "rate": 2.9,
+            "count": 340
         },
         {
             "id": 17,
@@ -207,10 +175,8 @@
             "description": "حذاء خفيف الوزن للرحلات أو الملابس الكاجوال - أكمام طويلة مع غطاء للرأس",
             "category": "لبس حريمي",
             "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-            "rating": {
-                "rate": 3.8,
-                "count": 679
-            }
+            "rate": 3.8,
+            "count": 679
         },
         {
             "id": 18,
@@ -219,10 +185,8 @@
             "description": "95٪ رايون 5٪ سباندكس ، صنع في الولايات المتحدة الأمريكية أو مستورد ، لا تستخدم المبيض",
             "category": "لبس حريمي",
             "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-            "rating": {
-                "rate": 4.7,
-                "count": 130
-            }
+            "rate": 4.7,
+            "count": 130
         },
         {
             "id": 19,
@@ -231,10 +195,8 @@
             "description": "100٪ بوليستر ، يغسل بالغسالة ، 100٪ كاتيوني بوليستر",
             "category": "لبس حريمي",
             "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-            "rating": {
-                "rate": 4.5,
-                "count": 146
-            }
+            "rate": 4.5,
+            "count": 146
         },
         {
             "id": 20,
@@ -243,10 +205,8 @@
             "description": "95٪ قطن ، 5٪ سباندكس ، الميزات: كاجوال ، كم قصير ،",
             "category": "لبس حريمي",
             "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-            "rating": {
-                "rate": 3.6,
-                "count": 145
-            }
+            "rate": 3.6,
+            "count": 145
         },
         {
             "title": "آبل آيفون 14 برو ماكس الجديد (256 جيجابايت) - أسود فلكي",
@@ -254,7 +214,9 @@
             "price": "899",
             "category": "electronics",
             "image": "https://m.media-amazon.com/images/I/610pghkO81L._AC_SX679_.jpg",
-            "id": 21
+            "id": 21,
+            "rate": 3.6,
+            "count": 145
         }
     ],
     "cart": [],
