@@ -10,7 +10,15 @@
             "discount_rate": 135.5,
             "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
             "rate": 3.9,
-            "count": 120
+            "count": 120,
+            "images": [
+                {
+                    "url": "https://www.evocsports.com/media/23/32/76/1629365056/401407100-GEAR-BAG-35.jpg"
+                },
+                {
+                    "url": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+                }
+            ]
         },
         {
             "id": 2,
